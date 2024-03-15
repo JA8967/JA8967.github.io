@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Pros and Cons to Being a Cat-dad. </title>
+<title>Pros and Cons to being a Cat-Dad</title>
 </head>
 <body>
 
