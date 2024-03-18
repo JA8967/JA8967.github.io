@@ -8,12 +8,12 @@ Your furry friend will make you laugh, make you feel loved, and will like to pla
 
 ![hurt cat](/images/Eddiehurt.jpg)
 
-| Pros                    | Cons                                       |
-|-------------------------|--------------------------------------------|
-| conditional love        | conditional love                           |
-| likes to play           | plays too rough                            |
-| keeps itself clean     | poops in a box that's in your house       |
-| cuddles and pets        | bites you when pet too much                |
-| low maintenance         | occasionally knocks things over to spite you |
-| quiet during the day    | wilding at night                           |
-| [benefits to cat ownership](https://www.helpguide.org/articles/healthy-living/joys-of-owning-a-cat.htm) | [cons to cat ownership](https://pethelpful.com/cats/Reasons-Not-to-Have-a-Pet-Cat) |
+| Pros                    | Cons                                       | column 3   |
+|-------------------------|--------------------------------------------|------------|
+| conditional love        | conditional love                           | row 1      |
+| likes to play           | plays too rough                            | row 2      |
+| keeps itself clean     | poops in a box that's in your house       | row 3      |
+| cuddles and pets        | bites you when pet too much                | row 4      |
+| low maintenance         | occasionally knocks things over to spite you | row 5    |
+| quiet during the day    | wilding at night                           | row 6      |
+| [benefits to cat ownership](https://www.helpguide.org/articles/healthy-living/joys-of-owning-a-cat.htm) | [cons to cat ownership](https://pethelpful.com/cats/Reasons-Not-to-Have-a-Pet-Cat) | row 7 |
